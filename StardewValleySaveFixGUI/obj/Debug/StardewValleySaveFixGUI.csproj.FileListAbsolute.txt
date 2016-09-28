@@ -1,1 +1,10 @@
 c:\users\leanzo\documents\visual studio 2015\Projects\StardewValleySaveFixGUI\StardewValleySaveFixGUI\bin\Debug\StardewValleySaveFixGUI.exe.config
+C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\bin\Debug\StardewValleySaveFixGUI.exe.config
+C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\bin\Debug\StardewValleySaveFixGUI.exe
+C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\bin\Debug\StardewValleySaveFixGUI.pdb
+C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\obj\Debug\StardewValleySaveFixGUI.csprojResolveAssemblyReference.cache
+C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\obj\Debug\StardewValleySaveFixGUI.Form1.resources
+C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\obj\Debug\StardewValleySaveFixGUI.Properties.Resources.resources
+C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\obj\Debug\StardewValleySaveFixGUI.csproj.GenerateResource.Cache
+C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\obj\Debug\StardewValleySaveFixGUI.exe
+C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\obj\Debug\StardewValleySaveFixGUI.pdb
