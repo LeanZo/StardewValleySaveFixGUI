@@ -1,11 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 using Newtonsoft.Json;
@@ -22,7 +19,7 @@ namespace StardewValleySaveFixGUI
             InitializeComponent();
             MyClass obj = new MyClass();
             comboBoxSaves = new ComboBox();
-            comboBoxSaves.Location = new System.Drawing.Point(27, 47);
+            comboBoxSaves.Location = new System.Drawing.Point(72, 92);
             comboBoxSaves.DropDownStyle = ComboBoxStyle.DropDownList;
 
             int numeroSaves = obj.listaSaves.Length;
