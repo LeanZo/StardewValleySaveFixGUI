@@ -1,0 +1,10 @@
+C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\bin\Release\StardewValleySaveFixGUI.exe.config
+C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\bin\Release\StardewValleySaveFixGUI.exe
+C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\bin\Release\StardewValleySaveFixGUI.pdb
+C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\bin\Release\Newtonsoft.Json.dll
+C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\bin\Release\Newtonsoft.Json.xml
+C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\obj\Release\StardewValleySaveFixGUI.Form1.resources
+C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\obj\Release\StardewValleySaveFixGUI.Properties.Resources.resources
+C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\obj\Release\StardewValleySaveFixGUI.csproj.GenerateResource.Cache
+C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\obj\Release\StardewValleySaveFixGUI.exe
+C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\obj\Release\StardewValleySaveFixGUI.pdb

@@ -8,3 +8,5 @@ C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI
 C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\obj\Debug\StardewValleySaveFixGUI.csproj.GenerateResource.Cache
 C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\obj\Debug\StardewValleySaveFixGUI.exe
 C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\obj\Debug\StardewValleySaveFixGUI.pdb
+C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\bin\Debug\Newtonsoft.Json.xml
