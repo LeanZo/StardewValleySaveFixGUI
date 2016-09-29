@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using System.IO;
 using Newtonsoft.Json;
 using System.Xml.Linq;
+using System.Xml;
 
 namespace StardewValleySaveFixGUI
 {
@@ -46,6 +47,7 @@ namespace StardewValleySaveFixGUI
             var savesDir = Path.Combine(appDataDir, "StardewValley\\Saves");
 
             var save = Path.Combine(Path.Combine(savesDir, savenome), savenome);
+            var savegameinfo = Path.Combine(Path.Combine(savesDir, savenome), "SaveGameInfo");
 
             File.Copy(save, Path.ChangeExtension(save, ".bak"), true);
 
@@ -66,8 +68,12 @@ namespace StardewValleySaveFixGUI
                 leaf.Value = value;
             }
 
-            doc.Save(save);
-
+            XmlWriterSettings settings = new XmlWriterSettings();
+            settings.Encoding = new UTF8Encoding(false); // The false means, do not emit the BOM.
+            using (XmlWriter w = XmlWriter.Create(save, settings))
+            {
+                doc.Save(w);
+            }
 
            // MessageBox.Show("Substituindo caracteres 0/2...");
 
@@ -167,10 +173,7 @@ namespace StardewValleySaveFixGUI
             text = text.Replace('ç', 'c');
             File.WriteAllText(save, text);
 
-           // MessageBox.Show("Substituindo caracteres 1/2...");
-
-            var savegameinfodir = new FileInfo(save).Directory.FullName;
-            var savegameinfo = Path.Combine(savegameinfodir, "SaveGameInfo");
+            // MessageBox.Show("Substituindo caracteres 1/2...");
 
             text = File.ReadAllText(savegameinfo);
             text = text.Replace('é', 'e');

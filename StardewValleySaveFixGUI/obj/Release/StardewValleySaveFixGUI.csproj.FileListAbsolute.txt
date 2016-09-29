@@ -8,3 +8,4 @@ C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI
 C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\obj\Release\StardewValleySaveFixGUI.csproj.GenerateResource.Cache
 C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\obj\Release\StardewValleySaveFixGUI.exe
 C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\obj\Release\StardewValleySaveFixGUI.pdb
+C:\Users\LeanZo\Documents\GitHub\StardewValleySaveFixGUI\StardewValleySaveFixGUI\obj\Release\StardewValleySaveFixGUI.csprojResolveAssemblyReference.cache
